@@ -4,6 +4,6 @@ This script was written for mirroring groups from an on-prem enviroment to Entra
 
 This script can be used to add members of on-prem AD groups to Entra ID groups based off of the members email address. It will prompt the user to select an excel .xlsx file containing the groups with the below headers:
 
-  ADGroupName | EntraGroupName
- -------------+----------------
-  Group       | Group 
+| ADGroupName | EntraGroupName |
+| --- | --- |
+| Group | Group |
